@@ -1,2 +1,2 @@
 # Music-Player-
-It my first repository 
+It is my first repository 
